@@ -1,2 +1,2 @@
-# tna-child-suffrage
+# Cold War child theme
 
