@@ -21,9 +21,9 @@ function setThemeGlobals($environment = null) {
             break;
         case 'external':
             $pre_crumbs = array(
-                'Suffrage 100' => '/cold-war/'
+                'Cold War' => '/cold-war/'
             );
-            $pre_path = '/cold-wars';
+            $pre_path = '/cold-war';
             break;
     }
 }
