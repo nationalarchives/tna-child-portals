@@ -13,6 +13,7 @@
             <input type="hidden" name="addressbookid" value="636353"> <!-- homepage and general sign up -->
             <!-- input type="hidden" name="addressbookid" value="732466" --> <!-- first world war portal sign up -->
             <input type="hidden" name="userid" value="173459">
+            <input type="hidden" name="SIG6b17b8d965185ea8f269f2a82a82db5211422e856bd7f24bf1f77ca7b70dbf86" value="">
             <input type="hidden" name="cd_SOURCE" value="web">
             <input type="hidden" name="ReturnURL"
                    value="http://www.nationalarchives.gov.uk/about/get-involved/newsletters/the-national-archives-newsletter/thank-you/">
