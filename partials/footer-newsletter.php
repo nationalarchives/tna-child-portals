@@ -5,7 +5,8 @@
 
     <div class="news-content" id="newsletterAccessibility">
         <h2>Sign me up</h2>
-        <p>Subscribe to our mailing list for news, updates and priority booking for our Cold War season</p>
+        <p>To secure priority booking and be the first to obtain details of the Cold War season, sign up to our
+            mailing list:</p>
     </div>
 
     <div class="news-form">
