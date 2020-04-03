@@ -1,2 +1,2 @@
-# Cold War child theme
+# Child theme for portal pages
 
