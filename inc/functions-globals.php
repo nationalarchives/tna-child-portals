@@ -16,14 +16,9 @@ function setThemeGlobals($environment = null) {
     switch ($environment) {
         case 'internal':
         case 'development':
-            $pre_path = '';
-            $pre_crumbs = array('Cold War' => '/');
-            break;
         case 'external':
-            $pre_crumbs = array(
-                'Cold War' => '/cold-war/'
-            );
-            $pre_path = '/cold-war';
+            $pre_path = '';
+            $pre_crumbs = null;
             break;
     }
 }
