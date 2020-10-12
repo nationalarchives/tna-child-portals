@@ -17,6 +17,7 @@ function setThemeGlobals($environment = null) {
         case 'internal':
         case 'development':
         case 'external':
+        case 'aws_public':
             $pre_path = '';
             $pre_crumbs = null;
             break;
